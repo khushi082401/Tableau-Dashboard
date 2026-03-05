@@ -137,5 +137,6 @@ These filters make the dashboard **interactive and exploratory**.
 # 👩‍💻 Author
 
 **Mayabani Mazumdar**
-
-📊 Data Analyst | Business Analytics | Data Visualization
+🎓 MBA – Business Analytics
+📊 Aspiring Data Analyst
+💡 Interested in Data Visualization & Business Intelligence
