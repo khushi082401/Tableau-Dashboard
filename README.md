@@ -1,108 +1,141 @@
-# 🚗 Car Sales Dashboard – Tableau Project
-📊 Project Overview
+# 🚗 Car Sales Dashboard | Tableau Data Visualization Project
 
-This project presents an interactive Car Sales Dashboard built using Tableau to analyze vehicle sales performance across different regions, models, and customer segments.
+# 📊 Project Overview
 
-The dashboard provides insights into total sales, units sold, dealer performance, customer gender distribution, and preferred vehicle body types, helping businesses understand market trends and sales patterns.
+The **Car Sales Dashboard** is an interactive **data visualization project built using Tableau** to analyze automobile sales performance.
 
-🎯 Objectives
+This dashboard provides valuable insights into **sales performance, customer demographics, vehicle preferences, and regional distribution of sales**.
 
-Analyze overall car sales performance
+The purpose of this project is to demonstrate how **business data can be transformed into actionable insights using data visualization techniques.**
 
-Identify top-performing regions and models
+---
 
-Understand customer demographics
+# 🎯 Business Problem
 
-Explore vehicle body type preferences
+Automobile companies generate large volumes of sales data. Without proper analysis, it becomes difficult to identify:
 
-Provide a visual and interactive sales analysis tool
+* Top performing **regions**
+* Most popular **car models**
+* Preferred **vehicle body types**
+* Customer **demographics**
+* Overall **sales performance**
 
-📌 Key Metrics Displayed
+This dashboard solves that problem by presenting the data in a **clear, interactive, and visual format.**
 
-The dashboard highlights important KPIs such as:
+---
 
-💰 Total Sales: 67,15,25,465
+# 📈 Dashboard KPIs
 
-🚘 Total Units Sold: 23,906
+The dashboard highlights important **Key Performance Indicators (KPIs)**:
 
-🏢 Total Dealers: 28
+| Metric              | Value        |
+| ------------------- | ------------ |
+| 💰 Total Sales      | 67,15,25,465 |
+| 🚘 Total Units Sold | 23,906       |
+| 🏢 Total Dealers    | 28           |
 
-These metrics provide a quick overview of the overall sales performance.
+These KPIs provide a quick overview of the overall sales performance.
 
-📈 Dashboard Features
-1️⃣ Region-wise Sales Analysis
+---
 
-Displays total sales across different dealer regions
+# 📊 Dashboard Components
 
-Helps identify high-performing locations
+## 1️⃣ Region-wise Sales
 
-Enables comparison of sales distribution geographically
+Shows sales distribution across different dealer regions.
 
-2️⃣ Units Sold by Gender
+Insights:
 
-Pie chart showing male vs female customer purchases
+* Helps identify **high-performing regions**
+* Allows comparison of **sales contribution by location**
 
-Helps understand customer demographics
+---
 
-3️⃣ Sales by Model
+## 2️⃣ Units Sold by Gender
 
-Displays vehicle sales by company and model
+A **pie chart visualization** showing the gender distribution of customers.
 
-Highlights top-selling car models
+Insights:
 
-4️⃣ Preferred Body Type
+* Male customers contribute a **larger share of purchases**
+* Helps understand **customer demographics**
 
-Shows most popular vehicle types including:
+---
 
-SUV
+## 3️⃣ Sales by Model
 
-Hatchback
+Displays vehicle sales by **company and model**.
 
-Sedan
+Insights:
 
-Passenger
+* Identifies **top-performing car models**
+* Highlights which brands dominate the market
 
-Hardtop
+---
 
-5️⃣ Interactive Filters
+## 4️⃣ Most Preferred Body Type
 
-Users can filter the dashboard by:
+A **bubble chart visualization** representing vehicle body preferences.
 
-⚙️ Transmission Type (Auto / Manual)
+Body Types Included:
 
-🎨 Car Color
+* SUV
+* Hatchback
+* Sedan
+* Passenger
+* Hardtop
 
-📅 Year of Sale
+Insights:
 
-These filters allow dynamic exploration of the dataset.
+* SUVs and Hatchbacks are among the **most preferred vehicle types**
 
-🛠 Tools & Technologies Used
+---
 
-📊 Tableau – Dashboard creation and visualization
+## 5️⃣ Interactive Filters
 
-📑 Data Cleaning & Preparation – Tableau Data Source tools
+The dashboard allows users to dynamically filter the data using:
 
-📈 Data Visualization Techniques – Charts, pie charts, and bubble charts
+⚙️ **Transmission Type**
 
+* Automatic
+* Manual
 
-💡 Insights from the Dashboard
+🎨 **Car Color**
 
-Some key observations from the analysis:
+* Black
+* Pale White
+* Red
 
-SUVs are among the most preferred vehicle body types
+📅 **Year of Sale**
 
-Certain regions show significantly higher sales performance
+These filters make the dashboard **interactive and exploratory**.
 
-Male customers contribute a larger share of car purchases
+---
 
-A few models dominate the overall unit sales
+# 🛠 Tools & Technologies Used
 
-👩‍💻 Author
+| Tool               | Purpose                                   |
+| ------------------ | ----------------------------------------- |
+| Tableau            | Data visualization and dashboard creation |
+| Data Analytics     | Sales analysis                            |
+| Data Visualization | Charts and interactive dashboards         |
 
-Mayabani Mazumdar
+---
+
+# 💡 Key Insights from the Analysis
+
+✔ SUVs are one of the **most preferred body types**
+
+✔ Some regions generate **significantly higher revenue**
+
+✔ A few models dominate the **majority of car sales**
+
+✔ Male customers account for a **larger share of purchases**
+
+---
+
+# 👩‍💻 Author
+
+**Mayabani Mazumdar**
 
 📊 Data Analyst | Business Analytics | Data Visualization
-
-A professional project description for your portfolio website
-
-A GitHub project showcase section for this dashboard (very useful for recruiters).
